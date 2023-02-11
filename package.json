@@ -1,6 +1,6 @@
 {
   "name": "hexo-butterfly-copymarkdown",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "allow copying markdown text directly on the article page",
   "main": "index.js",
   "scripts": {

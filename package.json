@@ -1,6 +1,6 @@
 {
   "name": "hexo-butterfly-copymarkdown",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "allow copying markdown text directly on the article page",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "plugin",
     "html2markdown"
   ],
+  "private": false,
   "author": "Charles Hsu",
   "license": "MIT"
 }

@@ -36,11 +36,7 @@ copyMarkdown:
 
 ## preview
 
-![](https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111700185.png)
-
-![](https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111702285.png)
-
-![](https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111703065.png)
+[Hexo插件 | 直接复制markdown](https://www.crowhsu.top/posts/6e818316.html?_sw-precache=83575f0c05e0f26a4f7a4eb6257822a1)
 
 Except for mermaid, all tag plugins have been adapted by the plugin.
 

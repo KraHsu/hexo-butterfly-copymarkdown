@@ -35,12 +35,11 @@ copyMarkdown:
 ```
 
 ## preview
+<img src='https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111032837.gif' />
 
-![](https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111032837.gif)
+<img src='https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111032501.gif' />
 
-![](https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111032501.gif)
-
-![](https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111033577.gif)
+<img src='https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111033577.gif' />
 
 ## License
 

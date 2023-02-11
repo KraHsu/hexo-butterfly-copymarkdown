@@ -10,7 +10,7 @@ npm i hexo-butterfly-copymarkdown --save
 
 ## Config
 
-Add configuration in hexo's _config.yml file or theme's_config.yml.
+Add configuration in hexo's _config.yml file.
 
 An Example:
 
@@ -35,12 +35,16 @@ copyMarkdown:
 ```
 
 ## preview
-<img src='https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111032837.gif' />
 
-<img src='https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111032501.gif' />
+![](https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111700185.png)
 
-<img src='https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111033577.gif' />
+![](https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111702285.png)
+
+![](https://picbed-1304952903.cos.ap-beijing.myqcloud.com/pic/steve202302111703065.png)
+
+Except for mermaid, all tag plugins have been adapted by the plugin.
 
 ## License
+hexo-butterfly-copyMarkdown is Copyright © 2023 Charles Hsu and released under the MIT license.
 
-The project uses [turndown.js](https://github.com/domchristie/turndown).
+The project uses [turndown.js](https://github.com/domchristie/turndown), turndown is copyright © 2017+ Dom Christie and released under the MIT license.
